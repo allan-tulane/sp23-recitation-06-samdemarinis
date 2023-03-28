@@ -1,4 +1,4 @@
-# CMPS 2200 Recitation 6
+  # CMPS 2200 Recitation 6
 
 In this recitation, we'll look at huffman coding.
 
